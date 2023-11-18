@@ -1,2 +1,6 @@
 # Online-Discussion-Platform-Milestone1
 This is the first milestone of the online discussion platform project. The PDF document is the project proposal, which includes the technical aspects, functionalities, UI/UX deisgns, potential difficulties and the project timeline. This repository also includes all the programming codes and the relevant files. In milestone 1, I developed some basic account features, the ask question feature, commenting feature, basic file upload, drag and drop, multi-upload, email verification and forgot password. Milestone 2 will introduce more functionalities of the discussion platform application.
+
+1.Basic account features: It means the application requires users to create an account before they use it. When creating the account, the users need to satisfy certain requirements for security and data intergiry purposes. Once they have successfully created their user account, they can use their users credentials to login their account and use the features on the discussion platform. 
+Once you open the website, you will see this login page
+![LoginMainPage](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/b9dfdc75-e6f6-45ab-8c87-550c9263357a)
