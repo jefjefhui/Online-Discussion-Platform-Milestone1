@@ -26,3 +26,23 @@ You need to ensure the CAPTCHA value is correct. Otherwise, this will happen.
 ![captcha_incorrect](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/6a11da16-1f64-467b-9292-3baa3203315a)
 Once you satisfy all the requirements above, your account will be created successfully, and the following screen will be displayed.
 ![account_All_Set](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/8b98111e-ddd6-431e-859e-8f0776130c41)
+
+Once you login to your account, you will see the home page of the application, which is shown as follow.
+![HomeQ_page](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/0d50e081-cbce-4b97-bd83-77123056f4d3)
+
+2. Ask Questions: This feature allows users to ask questions on the platform.
+This is the ask questions interface
+![askQuestion1](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/9f7705e4-72d8-4452-ba0e-2a80b6275680)
+You can enter all the required information about the question, then press the "ask" button
+![askQuestion2](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/655c4d3e-5c2f-4e30-98a5-78dfbf1378c6)
+Once you posted your question successfully, it will show the success screen.
+![askQuestion3](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/539bd3b9-05e2-4c91-b1a6-30c71dc3673b)
+When you go back to the home screen, you can see the question posted at the bottom successfully
+![askquestion4](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/1c66a41e-14e4-447f-91b5-ccbb502d9939)
+You can also click on the questions, which will bring you in and show the replis on the question.
+![askquestion5](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/10a0f5ff-0456-4459-964d-5a685591a712)
+
+
+
+
+
