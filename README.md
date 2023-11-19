@@ -48,6 +48,12 @@ You can type your response in the text box, just like the following image. After
 After clicking on the submit button, the comment you just made will be posted at the bottom of the question. You can post more comments, and they will be placed at the bottom and stacking over other comments.This is how it looks like when you posted a comment on a question.
 ![comment2](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/c1e77073-2aa2-4cf7-ba10-d617494f0a21)
 
+4. Basic file upload: When replying questions, text information may not sufficient. Sometimes, we need visual aid to help us to explain the question. Basic file upload allows user to upload an image when they reply questions. The usage of basic file upload is very simple. Users only need to press the "choose file" button, navigate to the image and choose the image. Once you choose the image to upload, it will show as follow.
+![fileUpload1](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/547bbe01-8c67-4795-8cf2-f33e8c7c152e)
+Once you clicked on the submit button, the comment and the imge will be posted under the question. The latest comment will be posted at the bottom.
+![fileupload2](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/d3ca4c98-6938-4579-baa5-da675d3aff0d)
+
+
 
 
 
