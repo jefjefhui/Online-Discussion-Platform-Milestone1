@@ -39,8 +39,16 @@ Once you posted your question successfully, it will show the success screen.
 ![askQuestion3](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/539bd3b9-05e2-4c91-b1a6-30c71dc3673b)
 When you go back to the home screen, you can see the question posted at the bottom successfully
 ![askquestion4](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/1c66a41e-14e4-447f-91b5-ccbb502d9939)
-You can also click on the questions, which will bring you in and show the replis on the question.
+You can also click on the questions, which will bring you in and show the replies on the question.
 ![askquestion5](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/10a0f5ff-0456-4459-964d-5a685591a712)
+
+3. Commenting feature: This feature allows users to comment on questions, so that the entire community can help each other out.
+You can type your response in the text box, just like the following image. Afterwards, just click on the submit button.
+![comment1](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/13482b80-10f7-4b41-b322-400fe4228b3a)
+After clicking on the submit button, the comment you just made will be posted at the bottom of the question. You can post more comments, and they will be placed at the bottom and stacking over other comments.This is how it looks like when you posted a comment on a question.
+![comment2](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/c1e77073-2aa2-4cf7-ba10-d617494f0a21)
+
+
 
 
 
