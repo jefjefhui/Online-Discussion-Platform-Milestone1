@@ -55,8 +55,30 @@ Once you clicked on the submit button, the comment and the imge will be posted u
 
 5. Drag and drop: Instead of selecting files to upload to the platform, drag and drop allows users to drag and drop the image they want to upload to a specific area in the website,which can replace the redundant process of selecting the file from the file system. This is a lot more convenient than selecting files form the file system, as users can drag and drop directly. This can prevent human errors during the image selection process. The following image shows how the drag and drop interface looks like.
 ![dragNDrop1](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/a86d7cb4-3ccd-4f01-98a5-4f0b1b1ce167)
+
 The image below shows how the drag and drop process looks like. This image also shows how it looks like when the image is being dragged to the area successfully. Lastly, this image also shows the users can upload multiple items at the same time.
 ![dragNDrop2](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/ef8f3ebb-c4f9-468f-9c9e-9c1acb719eea)
+
+6. Email verification and Forgot password: Email verification and forgot password are two important features which come together. Forgot password allows users to reset their password when they forgot. During the reset password procedures, the system will trigger the email verification step. It will generate a random 4 digits number and send it to the user's email address. Users need to check their email and type the 4 digits number to the website. After clicking on the "forgot password" link in the login home page. The following screen will show.
+![forgot_PW](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/cb189f33-43db-4fed-b9bc-2e00bbdfb46d)
+For this to work, you need to enter a real email address. The image below is an example.
+![forgot_PW_entered](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/2cd8e022-0326-4d81-8188-95476e21e6a8)
+After pressing the "submit" button, you will see the following screen. The system will ask for your verification code. You can get the verification code by checking your email.
+![enter_Verification_code](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/5e999ee4-610e-486a-8260-f6e59af03751)
+When you check your email, you can see the verification code, which is something like this.
+![verificationCodeEmail](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/dfe9e7a5-4f16-4e41-9c84-5bb79836b0b0)
+After getting the verification code from the email, you can enter it to the website. 
+![entered_VerficationCode](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/1020bfd9-dae8-42c2-9dab-90288a86927f)
+After pressing next, the system will do the checking. If you entered the correct verification code, the "change password" screen will show to you. You need to enter your new password 2 times. The following image is how it looks like.
+![changePWFortgotPW](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/c68df122-3785-4cf0-8663-cf3fe1ccf818)
+Once you entered both passwords correctly, and press the "submit" button, the success screen will show. This is how it looks like.
+![forgotPWPWchanged](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/7688f2c6-4851-4e99-9ee5-d3779f9f8a77)
+
+
+
+
+
+
 
 
    
