@@ -53,6 +53,14 @@ After clicking on the submit button, the comment you just made will be posted at
 Once you clicked on the submit button, the comment and the imge will be posted under the question. The latest comment will be posted at the bottom.
 ![fileupload2](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/d3ca4c98-6938-4579-baa5-da675d3aff0d)
 
+5. Drag and drop: Instead of selecting files to upload to the platform, drag and drop allows users to drag and drop the image they want to upload to a specific area in the website,which can replace the redundant process of selecting the file from the file system. This is a lot more convenient than selecting files form the file system, as users can drag and drop directly. This can prevent human errors during the image selection process. The following image shows how the drag and drop interface looks like.
+![dragNDrop1](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/a86d7cb4-3ccd-4f01-98a5-4f0b1b1ce167)
+The image below shows how the drag and drop process looks like. This image also shows how it looks like when the image is being dragged to the area successfully.
+![dragNDrop2](https://github.com/jefjefhui/Online-Discussion-Platform-Milestone1/assets/73283123/ef8f3ebb-c4f9-468f-9c9e-9c1acb719eea)
+
+
+   
+
 
 
 
